@@ -140,7 +140,7 @@ body {
   border-top: 1px solid var(--main-color);
 }
 .landing {
-  background-image: url(/images/landing.jpg);
+  background-image: url(https://github.com/Abduljalel/Project_One/blob/main/images/landing.jpg);
   background-size: cover;
   height: calc(100vh - 62px);
 }
